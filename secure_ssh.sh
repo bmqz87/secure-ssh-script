@@ -1,6 +1,7 @@
 #!/bin/bash
 # secure_ssh.sh – Secure SSH with custom port & IP access using iptables (Ubuntu only)
-# Author: YOUR NAME
+# Author: Bilal M. Qazi (https://github.com/yourusername)
+# Version: 1.1 – Updated: 2025-06-03
 
 set -e
 
